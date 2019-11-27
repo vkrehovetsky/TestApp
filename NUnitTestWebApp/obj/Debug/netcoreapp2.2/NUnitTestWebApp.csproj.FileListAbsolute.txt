@@ -1,0 +1,17 @@
+C:\Users\admin\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\TestWebApp\TestWebApp\NUnitTestWebApp\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\admin\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\TestWebApp\TestWebApp\NUnitTestWebApp\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\admin\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\TestWebApp\TestWebApp\NUnitTestWebApp\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\admin\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\TestWebApp\TestWebApp\NUnitTestWebApp\bin\Debug\netcoreapp2.2\NUnitTestWebApp.deps.json
+C:\Users\admin\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\TestWebApp\TestWebApp\NUnitTestWebApp\bin\Debug\netcoreapp2.2\NUnitTestWebApp.runtimeconfig.json
+C:\Users\admin\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\TestWebApp\TestWebApp\NUnitTestWebApp\bin\Debug\netcoreapp2.2\NUnitTestWebApp.runtimeconfig.dev.json
+C:\Users\admin\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\TestWebApp\TestWebApp\NUnitTestWebApp\bin\Debug\netcoreapp2.2\NUnitTestWebApp.dll
+C:\Users\admin\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\TestWebApp\TestWebApp\NUnitTestWebApp\bin\Debug\netcoreapp2.2\TestWebApp.dll
+C:\Users\admin\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\TestWebApp\TestWebApp\NUnitTestWebApp\bin\Debug\netcoreapp2.2\TestWebApp.pdb
+C:\Users\admin\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\TestWebApp\TestWebApp\NUnitTestWebApp\obj\Debug\netcoreapp2.2\NUnitTestWebApp.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\TestWebApp\TestWebApp\NUnitTestWebApp\obj\Debug\netcoreapp2.2\NUnitTestWebApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\TestWebApp\TestWebApp\NUnitTestWebApp\obj\Debug\netcoreapp2.2\NUnitTestWebApp.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\TestWebApp\TestWebApp\NUnitTestWebApp\obj\Debug\netcoreapp2.2\NUnitTestWebApp.AssemblyInfo.cs
+C:\Users\admin\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\TestWebApp\TestWebApp\NUnitTestWebApp\obj\Debug\netcoreapp2.2\NUnitTestWebApp.csproj.CopyComplete
+C:\Users\admin\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\TestWebApp\TestWebApp\NUnitTestWebApp\bin\Debug\netcoreapp2.2\NUnitTestWebApp.pdb
+C:\Users\admin\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\TestWebApp\TestWebApp\NUnitTestWebApp\obj\Debug\netcoreapp2.2\NUnitTestWebApp.dll
+C:\Users\admin\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\TestWebApp\TestWebApp\NUnitTestWebApp\obj\Debug\netcoreapp2.2\NUnitTestWebApp.pdb
